@@ -8,13 +8,13 @@ Given the vast majority of languages in our country, majority of Indians aspire 
 
 Inspired Khan Academy and Duolingo's versions of Gen AI powered tutors, there is an opportunity to build a friendly product to help kids and adults learn to speak, read and write in English through their native language.
 
-Khanmigo: https://www.khanacademy.org/khan-labs
-Duolingo: https://blog.duolingo.com/duolingo-max/
+- Khanmigo: https://www.khanacademy.org/khan-labs
+- Duolingo: https://blog.duolingo.com/duolingo-max/
 
 Some products in the market: 
-Carna: https://carna.ai/
-Loora: https://loora.ai/
-Buddy: https://buddy.ai/en
+- Carna: https://carna.ai/
+- Loora: https://loora.ai/
+- Buddy: https://buddy.ai/en
 
 2. AI financial advisor
 
