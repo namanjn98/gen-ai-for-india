@@ -1,6 +1,6 @@
 # Generative AI hackathon ideas
 
-## Building AI for India 
+## Themes to get started
 
 **1. AI tutor to teach English**
 
@@ -16,8 +16,13 @@ Some products in the market:
 - Loora: https://loora.ai/
 - Buddy: https://buddy.ai/en
 
-2. AI financial advisor
+**2. Financial Advisor**
 
-Lack of financial literacy is a big challenge in India. People are unable to 
+Lack of financial literacy is a big challenge in India. People are unable to understand financial terms, products and instruments. 
 
-4. 
+Inspired by Liquide's AI bot for financial advisory, build a personalised bot to help you invest money in equity/debt markets, choose the insurance policy, understand a business and create a retirement plan. 
+
+**3. Support Creators**
+
+India's buying decisions are primarily driven by Internet search and social media influencers. Building tools for creators such as AI driven video editing, video dubbing in multiple languages, automatic Advertisement creation, news summarisation etc. 
+
